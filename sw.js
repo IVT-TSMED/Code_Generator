@@ -1,4 +1,4 @@
-const CACHE = "code-generator-v1";
+const CACHE = "code-generator-v2";
 const SHELL = [
     "./",
     "./index.html",
